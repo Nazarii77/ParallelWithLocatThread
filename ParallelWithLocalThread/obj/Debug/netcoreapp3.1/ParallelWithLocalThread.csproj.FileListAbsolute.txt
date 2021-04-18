@@ -1,0 +1,13 @@
+C:\Users\boich\source\repos\ParallelWithLocalThread\ParallelWithLocalThread\bin\Debug\netcoreapp3.1\ParallelWithLocalThread.exe
+C:\Users\boich\source\repos\ParallelWithLocalThread\ParallelWithLocalThread\bin\Debug\netcoreapp3.1\ParallelWithLocalThread.deps.json
+C:\Users\boich\source\repos\ParallelWithLocalThread\ParallelWithLocalThread\bin\Debug\netcoreapp3.1\ParallelWithLocalThread.runtimeconfig.json
+C:\Users\boich\source\repos\ParallelWithLocalThread\ParallelWithLocalThread\bin\Debug\netcoreapp3.1\ParallelWithLocalThread.runtimeconfig.dev.json
+C:\Users\boich\source\repos\ParallelWithLocalThread\ParallelWithLocalThread\bin\Debug\netcoreapp3.1\ParallelWithLocalThread.dll
+C:\Users\boich\source\repos\ParallelWithLocalThread\ParallelWithLocalThread\bin\Debug\netcoreapp3.1\ParallelWithLocalThread.pdb
+C:\Users\boich\source\repos\ParallelWithLocalThread\ParallelWithLocalThread\obj\Debug\netcoreapp3.1\ParallelWithLocalThread.csprojAssemblyReference.cache
+C:\Users\boich\source\repos\ParallelWithLocalThread\ParallelWithLocalThread\obj\Debug\netcoreapp3.1\ParallelWithLocalThread.AssemblyInfoInputs.cache
+C:\Users\boich\source\repos\ParallelWithLocalThread\ParallelWithLocalThread\obj\Debug\netcoreapp3.1\ParallelWithLocalThread.AssemblyInfo.cs
+C:\Users\boich\source\repos\ParallelWithLocalThread\ParallelWithLocalThread\obj\Debug\netcoreapp3.1\ParallelWithLocalThread.csproj.CoreCompileInputs.cache
+C:\Users\boich\source\repos\ParallelWithLocalThread\ParallelWithLocalThread\obj\Debug\netcoreapp3.1\ParallelWithLocalThread.dll
+C:\Users\boich\source\repos\ParallelWithLocalThread\ParallelWithLocalThread\obj\Debug\netcoreapp3.1\ParallelWithLocalThread.pdb
+C:\Users\boich\source\repos\ParallelWithLocalThread\ParallelWithLocalThread\obj\Debug\netcoreapp3.1\ParallelWithLocalThread.genruntimeconfig.cache
